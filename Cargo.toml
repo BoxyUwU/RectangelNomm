@@ -1,0 +1,12 @@
+[package]
+name = "rectangelnom"
+version = "0.1.0"
+authors = ["BoxyUwU"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+tetra = "0.5"
+arche-tape = { path = "../ArcheTape/arche_tape"}
